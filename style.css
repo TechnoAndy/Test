@@ -1,3 +1,8 @@
 h1 {
   color: purple;
 }
+
+p {
+  color: red;
+  font-weight: bold;
+}
